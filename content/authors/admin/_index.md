@@ -1,39 +1,34 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Fatima Ghadieh
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Electrical & Computer Engineering Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: American University of Beirut
+    url: https://www.aub.edu.lb/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests lie at the intersection of machine learning, robotics, computer vision, control, optimization, and reinforcement learning.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Autonomous Robotics
+  - Reinforcement Learning
+  - Deep Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BEng in Electrical & Computer Engineering
+      institution: American University of Beirut
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,35 +38,35 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/fjg00
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/fatimaghadieh
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'fatimaghadieh2@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a senior Electrical & Computer engineering student at the American University of Beirut (AUB). I have just concluded my 2-month summer internship at the Adaptive Systems Lab at EPFL where I worked on a project in Multi-Agent Reinforcement Learning within Partially Observable Environments. I had some interesting results, and I am currently working with my supervisor to publish a paper regarding my work.
+ 
+My final year project is on "Human-Machine Interaction and Shared control for Autonomous Vehicles” whereby my team and I aim to enhance the experience of the driver and improve control handover between the vehicle itself and the driver. I was responsible for managing and analyzing data regarding the performance of students taking EECE230X, a course that was offered for the first time in a mixed-learning format at AUB. I was also part of the team that helped prepare this course. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I also assisted final year students preparing a dataset which they used in their project that examined "Gender as a Lens in Social Media analytics" in Spring of 2022. I
+  
+Some relevant courses I have taken: Introduction to Machine Learning, Numerical Linear Algebra, Instrumentation, Embedded and IoT Systems, System Analysis & Design (Graduate Course), System Identification (Graduate Course), and Reconfigurable Computing.
+
+My main research interests are around autonomous robotics, machine learning, computer vision, and reinforcement learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
