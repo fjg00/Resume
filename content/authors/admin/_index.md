@@ -59,14 +59,12 @@ email: 'fatimaghadieh2@gmail.com'
 highlight_name: true
 ---
 
-I am a senior Electrical & Computer engineering student at the American University of Beirut (AUB). I have just concluded my 2-month summer internship at the Adaptive Systems Lab at EPFL where I worked on a project in Multi-Agent Reinforcement Learning within Partially Observable Environments. I had some interesting results, and I am currently working with my supervisor to publish a paper regarding my work.
- 
-My final year project is on "Human-Machine Interaction and Shared control for Autonomous Vehicles” whereby my team and I aim to enhance the experience of the driver and improve control handover between the vehicle itself and the driver. I was responsible for managing and analyzing data regarding the performance of students taking EECE230X, a course that was offered for the first time in a mixed-learning format at AUB. I was also part of the team that helped prepare this course. 
+I am a senior Electrical & Computer engineering student at the American University of Beirut (AUB). My main research interests are around autonomous robotics, machine learning, computer vision, and reinforcement learning.
 
-I also assisted final year students preparing a dataset which they used in their project that examined "Gender as a Lens in Social Media analytics" in Spring of 2022. I
+I have just concluded my 2-month summer internship at the Adaptive Systems Lab at EPFL where I worked on a project in Multi-Agent Reinforcement Learning within Partially Observable Environments. I am currently working on my final year project is on "Human-Machine Interaction and Shared control for Autonomous Vehicles” whereby my team and I aim to enhance the experience of the driver and improve control handover between the vehicle itself and the driver. 
   
 Some relevant courses I have taken: Introduction to Machine Learning, Numerical Linear Algebra, Instrumentation, Embedded and IoT Systems, System Analysis & Design (Graduate Course), System Identification (Graduate Course), and Reconfigurable Computing.
 
-My main research interests are around autonomous robotics, machine learning, computer vision, and reinforcement learning.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
