@@ -46,7 +46,6 @@ item:
     organization_url: https://beirutai.org/agri-hackathon/
     title: 'Beirut AI Agri-Hackathon Finalist'
     url: ''
-    
   - certificate_url:  
     date_end: '2020'
     date_start: ''
