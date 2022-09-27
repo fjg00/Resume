@@ -42,19 +42,11 @@ item:
     date_end: ''
     date_start: '2020-01-01'
     description: ''
-    organization: Beirut AI & BeryTec
+    organization: Beirut AI & BeryTech
     organization_url: https://beirutai.org/agri-hackathon/
     title: 'Beirut AI Agri-Hackathon Finalist'
     url: ''
-    
-  - certificate_url:  
-    date_end: ''
-    date_start: '2020-01-01'
-    description: ''
-    organization: Beirut AI & BeryTec
-    organization_url: https://beirutai.org/agri-hackathon/
-    title: 'Beirut AI Agri-Hackathon Finalist'
-    url: ''
+     
 
 design:
   columns: '2'
