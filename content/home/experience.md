@@ -38,7 +38,7 @@ experience:
   - title: Data Analyst
     company: Al-Ghurair Hub in Digital Learning, AUB
     company_url: 'https://www.aub.edu.lb/msfea/Landing/introduction-to-Python.html'
-    company_logo: org-x
+    company_logo: 
     location: Beirut, Lebanon
     date_start: '2022-01-01'
     date_end: ''
