@@ -25,7 +25,7 @@ experience:
   - title: E3 Research Intern
     company: Adaptive System Labs, EPFL
     company_url: 'https://eee.epfl.ch/'
-    company_logo: epfl
+    company_logo:  
     location: Lausanne, Switzerland
     date_start: '2021-01-01'
     date_end: ''
