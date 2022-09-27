@@ -23,29 +23,37 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
+  - date_end: '2022'
+    date_start: '2021'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: United States Middle East Partnership Initiative
+    organization_url: https://www.aub.edu.lb/MEPI-TLS/Pages/default.aspx
+    title: MEPI-TLS Gender Scholar
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url:  
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
+    date_start: '2020'
+    description: 
+    organization: Tamkeen Bahrain & Amazon Web Services
+    organization_url: 
+    title: MENA Hackathon Winner
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+  - certificate_url:  
+    date_end: '2020'
+    date_start: ''
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: Beirut AI & BeryTec
+    organization_url: https://beirutai.org/agri-hackathon/
+    title: 'Beirut AI Agri-Hackathon Finalist'
+    url: ''
+    
+  - certificate_url:  
+    date_end: '2020'
+    date_start: ''
+    description: ''
+    organization: Beirut AI & BeryTec
+    organization_url: https://beirutai.org/agri-hackathon/
+    title: 'Beirut AI Agri-Hackathon Finalist'
     url: ''
 
 design:
