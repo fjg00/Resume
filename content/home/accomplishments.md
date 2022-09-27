@@ -37,20 +37,20 @@ item:
     organization: Tamkeen Bahrain & Amazon Web Services
     organization_url: 
     title: MENA Hackathon Winner
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    url: ''
   - certificate_url:  
-    date_end: '2020'
-    date_start: ''
+    date_end: ''
+    date_start: '2020'
     description: ''
-    organization: Beirut AI & BeryTec
+    organization: Beirut AI & BeryTech
     organization_url: https://beirutai.org/agri-hackathon/
     title: 'Beirut AI Agri-Hackathon Finalist'
     url: ''
   - certificate_url:  
-    date_end: '2020'
-    date_start: ''
+    date_end: ''
+    date_start: '2020'
     description: ''
-    organization: Beirut AI & BeryTec
+    organization: Beirut AI & BeryTech
     organization_url: https://beirutai.org/agri-hackathon/
     title: 'Beirut AI Agri-Hackathon Finalist'
     url: ''
