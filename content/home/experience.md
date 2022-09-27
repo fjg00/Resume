@@ -27,8 +27,8 @@ experience:
     company_url: 'https://eee.epfl.ch/'
     company_logo:  
     location: Lausanne, Switzerland
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2022-07-01'
+    date_end: '2022-10-09'
     description: |2-
         · Joined the ASL lab at EPFL as part of its Excellence in Engineering Fellowship Program.
         
@@ -54,8 +54,7 @@ experience:
       · Conducting surveys and providing calculated advice on how we can improve the delivery of the
       course in order to ensure a smooth student experience.
       
-      · Performing extensive statistical analysis and preparing bi/weekly reports regarding course perfor-
-      mance
+      · Performing extensive statistical analysis and preparing bi/weekly reports regarding course performance
 
 design:
   columns: '2'
