@@ -23,8 +23,8 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - date_end: '2022'
-    date_start: '2021'
+  - date_end: '2022-01-01'
+    date_start: '2021-01-01'
     description: ''
     organization: United States Middle East Partnership Initiative
     organization_url: https://www.aub.edu.lb/MEPI-TLS/Pages/default.aspx
@@ -32,25 +32,26 @@ item:
     url: ''
   - certificate_url:  
     date_end: ''
-    date_start: '2020'
+    date_start: '2020-01-01'
     description: 
     organization: Tamkeen Bahrain & Amazon Web Services
     organization_url: 
     title: MENA Hackathon Winner
-    url: ''
+    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url:  
     date_end: ''
-    date_start: '2020'
+    date_start: '2020-01-01'
     description: ''
-    organization: Beirut AI & BeryTech
+    organization: Beirut AI & BeryTec
     organization_url: https://beirutai.org/agri-hackathon/
     title: 'Beirut AI Agri-Hackathon Finalist'
     url: ''
+    
   - certificate_url:  
     date_end: ''
-    date_start: '2020'
+    date_start: '2020-01-01'
     description: ''
-    organization: Beirut AI & BeryTech
+    organization: Beirut AI & BeryTec
     organization_url: https://beirutai.org/agri-hackathon/
     title: 'Beirut AI Agri-Hackathon Finalist'
     url: ''
