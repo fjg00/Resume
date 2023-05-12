@@ -1,6 +1,6 @@
 ---
 title: Shared Control for Autonomous Driving
-summary: An example of using the in-built project page.
+summary: Enhancing user's trust in autonomous driving by developing efficient human-machine interfaces that predict the user's intentions and prompts for handback.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
