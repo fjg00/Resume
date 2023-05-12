@@ -35,7 +35,7 @@ tags:
   - Academic 
 
 categories:
-  - Demo 
+  - Awards 
 ---  
 
 Absolutely thrilled to have received the LEBNet Scholarship Award for the year 2023, an award intended for senior Lebanese engineering students from different Lebanese universities planning to pursue their graduate studies in the U.S. or Canada.  The LebNet scholarship is a testament to their unwavering support and belief in my potential, and it has given me the motivation and drive to continue striving for excellence in my studies and future endeavors.
