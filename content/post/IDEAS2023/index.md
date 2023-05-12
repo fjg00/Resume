@@ -43,7 +43,7 @@ tags:
   - Academic 
 
 categories:
-  - Demo 
+  - Talks 
 ---  
 
 My final year project team and I had the pleasure of participating in IDEAS 2023, a flagship spring event at the American University of Beirut that showcases research being conducted at its faculty of engineering. We presented our final year project findings to faculty and students, and were one of the few teams that were nominated for the "Creative Achievement Award". It was an excellent networking opportunity that allowed us to showcase the value of our project.
