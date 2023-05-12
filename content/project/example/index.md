@@ -22,12 +22,7 @@ url_pdf: ''
 url_slides: 'https://docs.google.com/presentation/d/1ACEkckK0Mq7e5bqHpRlUfEOYmnppmpK4/edit?usp=sharing&ouid=109852507372496738952&rtpof=true&sd=true'
 url_video: ''
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
+
 ---
 
 Driver safety is a major concern for the automotive industry today, and researchers and industries are exploring the introduction of self-driving vehicles as a solution. These vehicles aim to assist drivers during their journeys, making them more enjoyable, safe, and efficient. Despite the introduction of new features to self-driving vehicles, many people still do not trust them enough and prefer to be in control of the driving experience. This lack of trust can be attributed to various factors, such as the lack of information about automated vehicles, poor communication with the automation, or people being unaware of the full capabilities of the system.
