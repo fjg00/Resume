@@ -29,6 +29,8 @@ content:
       tag: '*'
     - name: Deep Learning
       tag: Deep Learning
+    - name: Autonomous Vehicles
+      tag: Autonomous Vehicles
     - name: Other
       tag: Demo
 
