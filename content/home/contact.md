@@ -25,7 +25,7 @@ content:
       captcha: true
  -->
   # Contact details (edit or remove options as required)
-  email: [Email](fatimaghadieh2@gmail.com) 
+  email: fatimaghadieh2@gmail.com
 design:
   columns: '2'
 ---
