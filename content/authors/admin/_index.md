@@ -26,6 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Electrical & Computer Engineering
+      institution: University of Toronto
+      year: 2023-2028
     - course: BEng in Electrical & Computer Engineering
       institution: American University of Beirut
       year: 2023
@@ -59,12 +62,10 @@ email: 'fatimaghadieh2@gmail.com'
 highlight_name: true
 ---
 
-I am a senior Electrical & Computer engineering student at the American University of Beirut (AUB). My main research interests are around autonomous robotics, machine learning, computer vision, and reinforcement learning.
+After completing my bachelor of engineering in Electrical and Computer Engineering at the American University of Beirut, I am excited to pursue my PhD in Electrical and Computer Engineering with a focus in Systems and Control at the University of Toronto under the supervision of Professors [Margaret P. Chapman]([url](https://www.control.utoronto.ca/~mchapman/)) and [Mireille Broucke]([url](https://www.control.utoronto.ca/~broucke/)). Throughout my time at AUB, I have worked on several worthwhile projects. I have also had the pleasant opporotunity to join the Adaptive Systmes Lab at EPFL, Switzerland as a research intern in Summer 2022, under the direct supervision of PhD candidate[Mr. Mert Kayaalp]([url](https://www.researchgate.net/profile/Mert-Kayaalp)) and [Professor Ali Sayed]([url](https://asl.epfl.ch/biography/)). The work which led to the journal paper titled "Policy Evaluation in Decentralized POMDPs with Belief Sharing" which was published in IEEE OJCSYS.
 
-I have just concluded my 2-month summer internship at the Adaptive Systems Lab at EPFL where I worked on a project in Multi-Agent Reinforcement Learning within Partially Observable Environments. I am currently working on my final year project is on "Human-Machine Interaction and Shared control for Autonomous Vehicles” whereby my team and I aim to enhance the experience of the driver and improve control handover between the vehicle itself and the driver. 
-  
-Some relevant courses I have taken: Introduction to Machine Learning, Numerical Linear Algebra, Instrumentation, Embedded and IoT Systems, System Analysis & Design (Graduate Course), System Identification (Graduate Course), and Reconfigurable Computing.
-
+My research interests include reinforcement learning, optimization, control, and multi-agent systems.
+   
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
