@@ -1,5 +1,5 @@
 ---
-title: AUBot: A Chatbot for University FAQs
+title: AUBot, A Chatbot for University FAQs
 summary: A retrieval-based chatbot that answers questions that are asked frequently by students at AUB.
 tags:
   - Deep Learning
