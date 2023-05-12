@@ -14,15 +14,15 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-!-- links:
-<!--  - icon: twitter
+<!-- links:
+- icon: twitter
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: '' -->
+url_code: 'https://github.com'
+url_pdf: '' 
 url_slides: 'https://docs.google.com/presentation/d/1ACEkckK0Mq7e5bqHpRlUfEOYmnppmpK4/edit?usp=sharing&ouid=109852507372496738952&rtpof=true&sd=true'
-url_video: 'https://www.youtube.com/watch?v=sFmeZH9-Ngs&pp=ygUMZnlwIGdyb3VwIDQz' 
+url_video: 'https://www.youtube.com/watch?v=sFmeZH9-Ngs&pp=ygUMZnlwIGdyb3VwIDQz' -->
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
