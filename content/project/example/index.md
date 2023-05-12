@@ -1,5 +1,5 @@
 ---
-title: Shared Control for Autonomous Driving
+title: Example Project
 summary: Enhancing user's trust in autonomous driving by developing efficient human-machine interfaces that predict the user's intentions and prompts for handback.
 tags:
   - Deep Learning
