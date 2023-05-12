@@ -10,9 +10,9 @@ role: Incoming PhD at UofT. B.Eng. in ECE at AUB
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: **University of Toronto**
+  - name: University of Toronto
     url: https://www.ece.utoronto.ca/
-  - name: **American University of Beirut**
+  - name: American University of Beirut
     url: https://www.aub.edu.lb/
 
 # Short bio (displayed in user profile at end of posts)
