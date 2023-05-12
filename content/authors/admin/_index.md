@@ -64,9 +64,9 @@ email: 'fatimaghadieh2@gmail.com'
 highlight_name: true
 ---
 
-After completing my bachelor of engineering in Electrical and Computer Engineering at the American University of Beirut, I am thrilled to pursue my PhD in Electrical and Computer Engineering with a focus in Systems and Control at the University of Toronto under the supervision of Professors [Margaret P. Chapman]([url](https://www.control.utoronto.ca/~mchapman/)) and [Mireille Broucke]([url](https://www.control.utoronto.ca/~broucke/)). 
+After completing my bachelor of engineering in Electrical and Computer Engineering at the American University of Beirut, I am thrilled to pursue my PhD in Electrical and Computer Engineering with a focus in Systems and Control at the University of Toronto under the supervision of Professors [**Margaret P. Chapman**]([url](https://www.control.utoronto.ca/~mchapman/)) and [**Mireille Broucke**]([url](https://www.control.utoronto.ca/~broucke/)). 
 
-Throughout my time at AUB, I have worked on several worthwhile projects. I have also had the pleasant opportunity to join the Adaptive Systmes Lab at EPFL, Switzerland as a research intern during Summer 2022, under the direct supervision of PhD candidate [Mr. Mert Kayaalp]([url](https://www.researchgate.net/profile/Mert-Kayaalp)) and [Professor Ali Sayed]([url](https://asl.epfl.ch/biography/)). Our work together resulted in a journal paper titled "Policy Evaluation in Decentralized POMDPs with Belief Sharing," which was published in IEEE OJCSYS.
+Throughout my time at AUB, I have worked on several worthwhile projects. I have also had the pleasant opportunity to join the Adaptive Systmes Lab at EPFL, Switzerland as a research intern during Summer 2022, under the direct supervision of PhD candidate [**Mr. Mert Kayaalp**]([url](https://www.researchgate.net/profile/Mert-Kayaalp)) and [**Professor Ali Sayed**]([url](https://asl.epfl.ch/biography/)). Our work together resulted in a journal paper titled "Policy Evaluation in Decentralized POMDPs with Belief Sharing," which was published in IEEE OJCSYS.
 
 My research interests encompass a diverse range of areas, including reinforcement learning, optimization, control, and multi-agent systems. Through my Ph.D., I aim to deepen my understanding of these fields and make meaningful contributions to the advancement of knowledge in Systems and Control.
 
