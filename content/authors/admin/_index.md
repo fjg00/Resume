@@ -6,7 +6,7 @@ title: Fatima Ghadieh
 superuser: true
 
 # Role/position/tagline
-role: Senior Electrical & Computer Engineering Student
+role: Incoming PhD at UofT. B.Eng. in ECE at AUB
 
 # Organizations/Affiliations to show in About widget
 organizations:
