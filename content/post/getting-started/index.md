@@ -39,6 +39,7 @@ tags:
 categories:
   - Demo 
 --- 
+![IDEASS](https://github.com/fjg00/resume/assets/80005419/bd02b1b8-6e22-4040-9fe7-7c1754665e37)
 
 <img src="[featured.jpg](https://github.com/fjg00/resume/assets/80005419/1e917fde-8f34-4b95-865a-37cf0b1cec4b)" alt="Presenting at IDEAS 2023" width="500" height="300">
 
