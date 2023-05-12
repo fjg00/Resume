@@ -15,7 +15,7 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
 
-  # Email form provider
+<!--   # Email form provider
   form:
     provider: netlify
     formspree:
@@ -23,9 +23,9 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
-
+ -->
   # Contact details (edit or remove options as required)
-  email: fatimaghadieh2@gmail.com
+  email: [Email](fatimaghadieh2@gmail.com) 
 design:
   columns: '2'
 ---
