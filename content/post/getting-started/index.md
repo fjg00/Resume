@@ -27,6 +27,8 @@ image:
   focal_point: ''
   placement: 2
   preview_only: false
+  width: 300
+  height: 300
 
 authors:
   - admin 
