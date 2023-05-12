@@ -23,6 +23,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - date_start: '2023-05-12'
+    description: ''
+    organization: LebNet Community
+    organization_url: https://lebnet.us/Scholarship
+    title: LEBNet EIC Scholarship Recipient
+    url: ''
   - date_end: '2022-05-30'
     date_start: '2021-01-01'
     description: ''
