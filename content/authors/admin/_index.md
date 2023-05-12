@@ -43,6 +43,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=Agew-twAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/fjg00
