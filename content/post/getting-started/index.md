@@ -23,13 +23,19 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
+  caption: 'IDEAS 2023 Poster'
+  focal_point: ''
+  placement: 2
+  preview_only: false
+
+# Featured image
+# Place an image named `featured2.jpg/png` in this page's folder and customize its options here.
+image:
   caption: 'Presenting at IDEAS 2023'
   focal_point: ''
   placement: 2
   preview_only: false
-  width: 200
-  height: 200
-
+  
 authors:
   - admin 
 
@@ -38,10 +44,6 @@ tags:
 
 categories:
   - Demo 
---- 
-![IDEASS](https://github.com/fjg00/resume/assets/80005419/bd02b1b8-6e22-4040-9fe7-7c1754665e37)
-
-<img src="[featured.jpg](https://github.com/fjg00/resume/assets/80005419/1e917fde-8f34-4b95-865a-37cf0b1cec4b)" alt="Presenting at IDEAS 2023" width="500" height="300">
-
+---  
 
 My final year project team and I had the pleasure of participating in IDEAS 2023, a flagship spring event at the American University of Beirut that showcases research being conducted at its faculty of engineering. We presented our final year project findings to faculty and students, and were one of the few teams that were nominated for the "Creative Achievement Award". It was an excellent networking opportunity that allowed us to showcase the value of our project.
