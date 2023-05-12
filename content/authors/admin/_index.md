@@ -20,9 +20,9 @@ bio: My research interests lie at the intersection of machine learning, robotics
 
 # Interests to show in About widget
 interests:
-  - Machine Learning
-  - Autonomous Robotics
   - Reinforcement Learning
+  - Optimization
+  - Control Systems
   - Deep Learning
 
 # Education to show in About widget
