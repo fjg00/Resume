@@ -68,8 +68,6 @@ After completing my bachelor of engineering in Electrical and Computer Engineeri
 
 Throughout my time at AUB, I have worked on several worthwhile projects. I have also had the pleasant opportunity to join the Adaptive Systmes Lab at EPFL, Switzerland as a research intern during Summer 2022, under the direct supervision of PhD candidate [**Mr. Mert Kayaalp**]([url](https://www.researchgate.net/profile/Mert-Kayaalp)) and [**Professor Ali Sayed**]([url](https://asl.epfl.ch/biography/)). Our work together resulted in a journal paper titled "Policy Evaluation in Decentralized POMDPs with Belief Sharing," which was published in IEEE OJCSYS.
 
-My research interests encompass a diverse range of areas, including reinforcement learning, optimization, control, and multi-agent systems. Through my Ph.D., I aim to deepen my understanding of these fields and make meaningful contributions to the advancement of knowledge in Systems and Control.
-
-Feel free to explore my website to learn more about my research, projects, and publications. I am excited about the possibilities that lie ahead and look forward to collaborating with fellow researchers and scholars in pursuit of innovative solutions to complex engineering challenges.
+My research interests encompass a diverse range of areas, including reinforcement learning, optimization, control, and multi-agent systems. Feel free to explore my website to learn more about my research, projects, and publications. I am excited about the possibilities that lie ahead and look forward to collaborating with fellow researchers and scholars in pursuit of innovative solutions to complex engineering challenges.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
