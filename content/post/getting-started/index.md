@@ -38,7 +38,9 @@ tags:
 
 categories:
   - Demo 
----
- 
+--- 
+
+<img src="[featured.jpg](https://github.com/fjg00/resume/assets/80005419/1e917fde-8f34-4b95-865a-37cf0b1cec4b)" alt="Presenting at IDEAS 2023" width="500" height="300">
+
 
 My final year project team and I had the pleasure of participating in IDEAS 2023, a flagship spring event at the American University of Beirut that showcases research being conducted at its faculty of engineering. We presented our final year project findings to faculty and students, and were one of the few teams that were nominated for the "Creative Achievement Award". It was an excellent networking opportunity that allowed us to showcase the value of our project.
