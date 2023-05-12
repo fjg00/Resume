@@ -3,7 +3,7 @@ title: Excellence in Engineering Fellowship at EPFL, Switzerland
 subtitle: Summer 2022 at École Polytechnique Fédérale de Lausanne
 
 # Summary for listings and search engines
-summary: "" 
+summary: "Summer 2022 at the Adaptive Systems lab, École Polytechnique Fédérale de Lausanne" 
 
 # Link this post with a project
 projects: []
