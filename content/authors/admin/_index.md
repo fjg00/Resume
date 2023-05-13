@@ -6,7 +6,7 @@ title: Fatima Ghadieh
 superuser: true
 
 # Role/position/tagline
-role: Incoming PhD at UofT. 
+role: Incoming PhD at the University of Toronto. 
 
 # Organizations/Affiliations to show in About widget
 organizations:
