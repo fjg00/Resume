@@ -12,8 +12,10 @@ role: Incoming PhD at the University of Toronto.
 organizations:
   - name: University of Toronto
     url: https://www.ece.utoronto.ca/
+    weight: 60
   - name:  American University of Beirut 
     url: https://www.aub.edu.lb/
+    weight: 60
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie at the intersection of machine learning, robotics, computer vision, control, optimization, and reinforcement learning.
