@@ -7,8 +7,7 @@ superuser: true
 
 # Role/position/tagline
 role: 
- - Incoming PhD at UofT. 
- - B.Eng. in ECE at AUB
+ - Incoming PhD at UofT., B.Eng. in ECE at AUB
 
 # Organizations/Affiliations to show in About widget
 organizations:
