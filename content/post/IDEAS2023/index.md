@@ -26,15 +26,7 @@ image:
   caption: 'IDEAS 2023 Poster'
   focal_point: ''
   placement: 2
-  preview_only: false
-
-# Featured image
-# Place an image named `featured2.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Presenting at IDEAS 2023'
-  focal_point: ''
-  placement: 2
-  preview_only: false
+  preview_only: true
   
 authors:
   - admin 
