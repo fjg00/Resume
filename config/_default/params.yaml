@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: minimal-mistakes-jekyll
+  theme_night: minimal-mistakes-jekyll
+  font: minimal-mistakes-jekyll
   font_size: M
 
 # SEO
