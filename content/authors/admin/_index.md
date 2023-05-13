@@ -10,7 +10,7 @@ role: Incoming PhD at UofT.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: <strong>University of Toronto</strong>
+  - name: {{<strong>University of Toronto</strong> | markdownify}}
     url: https://www.ece.utoronto.ca/
   - name: American University of Beirut
     url: https://www.aub.edu.lb/
