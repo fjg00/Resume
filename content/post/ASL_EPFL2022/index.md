@@ -26,7 +26,7 @@ image:
   caption: 'Summer in Switzerland'
   focal_point: ''
   placement: 2
-  preview_only: false
+  preview_only: true
 
   
 authors:
