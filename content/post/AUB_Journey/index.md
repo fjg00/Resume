@@ -15,7 +15,7 @@ date: '2023-04-13T00:00:00Z'
 lastmod: '2023-04-13T00:00:00Z'
 
 # Is this an unpublished draft?
-draft: false
+draft: true
 
 # Show this page in the Featured widget?
 featured: false
@@ -51,3 +51,14 @@ Then came covid, which resulted in spending a year and a half online, destroying
 Also, at that point in time, and as I started my third year at AUB, I was very nsure about what I was going to do with my life, I was extremely anxious about internship season. Setup my linkedIn account, started taking those online courses on coursera, and just trying as much as I can to stand out from students who were also applying. I also had taken part in assisting Professor loua Bazzi in preaprig EECE 230X, a transformative course that would later be offered by AUB in an online format which provides an introduction to programming. The aim of this course is to make knowledge in coding much more accessible in the arb world. At the beginning, I helped translate those videos into arabic, whlile also adding captions in english. Fol Then I also assisted in fixing audio issues within the videos. After that,a nd once the course was ready to be published  I took on the role of the data analyst within a team of 14 students.  think this experienc eby  far wa one of the most beneficial experiences I have been throughas a student at AUB. i tried my best to prove myself , not ust for everyone, but also for me.  it was such a rewarding experience, it required a lot of responsibility, effort, and time, but it was all worth it. I helped manage the team of students, I tracked the progress of all stuents taking the course, checking their levels of interaction with the material, monitoring their attendances, listening to feedback from the coding coaches, compiling everything and making weekly reports that summarize all findings per week.  Those reports allowed us to really form the foundation of educated decision-making based on course statistics. The course was a great success, both on a residential level within AUB, and for the open access oferring. 
 
 Following that, I had the orevilige of interviewing people who took this course, listening to their feedback, and reporting all findings t the professor. Listening to the impact of this intiative on the students lives really affected me personally, because it made me realize how our efforts have really culimnated into such great results
+
+i owe huge thanks to Professor Bazzi who really believed in my potential at that time, providing me with the needed support and encouraging me as much as needed. This intiative would have been possible without his strive and efforts at AUB. and I am incredibly thankful for him. (mention EECE 461 all nighters share pics, and experience with EECE 663)
+
+
+Following this experience in Spring 2022, I went on to pursue a research internship at EPFL. This experience was such an extraordinary experience, I still oe everything to AUB, because without its network and excellent reputatipon, I am sure i would not have had the chance to even think about doing such a thing. I met such amazing apeople at EPFL, I bonded with alot of peopl e from AUB, forming life-lon g friendships that I truly cherish and owould not trade for the world. My friendship, and occasional third wheeling, with Salam and Saiid was the highlight of the trip to Switzerland. I truly appreciate them and wish them the world, liteally, because  they truly desrve alll the best.
+
+The fall that followed that incredible summer was not as incredible. I think the fall semester of my fourth year at AUB had to be the toughest semester by far. i made the mistake of taking  heavy graduate courses along with a combination of 2 other courses. While the end result was great, I think that my mental health was truly at its lowest during that time. EECE 660 took a huge toll on my mental health that was incomaprable to any other course. math 281 amazing. arab 201 was also a nice course that I throgouhly enjoyed.
+
+
+Spring was nice and cool. (Karim , Maroun Malek, marina , hussein, marc, leen, yara, dima,, thank juju and parents ofc ofc)
+
