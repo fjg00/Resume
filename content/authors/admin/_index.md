@@ -6,8 +6,7 @@ title: Fatima Ghadieh
 superuser: true
 
 # Role/position/tagline
-role: 
- - Incoming PhD at Uoft
+role: Incoming PhD at Uoft. B.Eng. in ECE at AUB
 
 # Organizations/Affiliations to show in About widget
 organizations:
