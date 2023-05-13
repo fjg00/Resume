@@ -12,11 +12,7 @@ image:
   caption: AUBot
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+
 url_code: 'https://github.com/fjg00/AUBot---Chatbot-for-University-FAQs/tree/main/Implementation'
 url_pdf: 'https://github.com/fjg00/AUBot---Chatbot-for-University-FAQs/blob/main/Project%20Report.pdf'
 url_slides: 'https://github.com/fjg00/AUBot---Chatbot-for-University-FAQs/blob/main/EECE%20490%20Project.pptx'
