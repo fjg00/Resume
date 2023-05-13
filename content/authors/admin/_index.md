@@ -47,6 +47,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=Agew-twAAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-2853-9599
   - icon: github
     icon_pack: fab
     link: https://github.com/fjg00
