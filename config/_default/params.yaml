@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: dinky
-  theme_night: dinky
-  font: dinky
+  theme_day: Rose
+  theme_night: Rose
+  font: Rose
   font_size: M
 
 # SEO
