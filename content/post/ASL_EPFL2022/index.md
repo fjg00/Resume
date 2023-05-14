@@ -39,6 +39,7 @@ categories:
   - Research 
 ---  
 
+## My Experience at EPFL as a Research Intern
 
 I feel honored to have had the opportunity to spend my summer as a research intern at the Adaptive Systems lab at EPFL. The experience was truly incredible and surpassed all my expectations. Not only did I have the chance to work on a high-caliber project, but I also had the opportunity to explore and travel throughout Switzerland, immersing myself in the rich culture and diverse languages of the country.
 
@@ -48,7 +49,15 @@ Throughout my internship, I was fortunate to work alongside my mentor and adviso
 
 The EPFL campus itself is nothing short of amazing. Surrounded by the majestic Alps, the combination of the stunning natural beauty and the presence of world-class faculty inspires the mind and fuels creativity. Every day on campus was a source of motivation and excitement.
 
-Overall, my summer at the Adaptive Systems lab at EPFL has been a transformative experience. I am immensely grateful for the opportunity to work on cutting-edge research, explore Switzerland's beauty, and forge lifelong friendships. It is an experience that will undoubtedly shape my academic and personal journey for years to come.
+Overall, my summer at the Adaptive Systems lab at EPFL has been a transformative experience. I am immensely grateful for the opportunity to work on cutting-edge research, explore Switzerland's beauty, and form lifelong friendships. It is an experience that will undoubtedly shape my academic and personal journey for years to come.
+
+
+## My Research Project: An In-depth look
+
+**Policy Evaluation in Decentralized POMDPs with Belief Sharing**
+
+
+
 
 
 
