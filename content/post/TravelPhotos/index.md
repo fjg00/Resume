@@ -40,6 +40,45 @@ categories:
 
 Reflecting on my summer 2022 as I begin summer 2023. 
 
-{{< figure src="Pic1.jpg" caption="A caption" numbered="false" >}}
-{{< figure src="Pic2.jpg" caption="A caption" numbered="false" >}}
+{{< figure src="Pic1.jpg" caption= "View from EPFL campus" numbered="false" >}}
+{{< figure src="Pic2.jpg" caption="View from EPFL campus" numbered="false" >}}
+
+
+{{< figure src="lavaux1.jpeg" caption="Lavaux Vineyards, Lausanne, Switzerland" numbered="false" >}}
+{{< figure src="lavaux2.jpeg" caption="Lavaux Vineyards, Lausanne, Switzerland" numbered="false" >}}
+{{< figure src="lavaux3.jpeg" caption="Lavaux Vineyards, Lausanne, Switzerland" numbered="false" >}}
+
+
+{{< figure src="glacier1.jpeg" caption="Glacier 3000, Switzerland" numbered="false" >}}
+
+
+{{< figure src="ticino1.jpeg" caption="Bellinzona, Ticino, Switzerland" numbered="false" >}}
+{{< figure src="ticino2.jpeg" caption="Lugano, Ticino, Switzerland" numbered="false" >}}
+{{< figure src="ticino3.jpeg" caption="Lugano, Ticino, Switzerland" numbered="false" >}}
+
+
+
+{{< figure src="gruyeres1.jpeg" caption="Gruyeres" numbered="false" >}}
+{{< figure src="gruyeres2.jpeg" caption="Gruyeres" numbered="false" >}}
+
+
+{{< figure src="geneva1.jpeg" caption="Geneva, Switzerland" numbered="false" >}}
+{{< figure src="geneva2.jpeg" caption="Geneva, Switzerland" numbered="false" >}}
+{{< figure src="geneva3.jpeg" caption="Geneva, Switzerland" numbered="false" >}}
+
+
+{{< figure src="nyon1.jpeg" caption="Nyon, Switzerland" numbered="false" >}}
+{{< figure src="thonons1.jpeg" caption="Thonons-les-bains, France" numbered="false" >}}
+
+
+{{< figure src="vevey1.jpeg" caption="Vevey, Switzerland" numbered="false" >}}
+{{< figure src="vevey2.jpeg" caption="Vevey with Salam and Saiid, Switzerland" numbered="false" >}}
+
+{{< figure src="zurich1.jpeg" caption="Zurich, Switzerland" numbered="false" >}}
+{{< figure src="zurich2.jpeg" caption="Zurich, Switzerland" numbered="false" >}}
+{{< figure src="zurich3.jpeg" caption="Zurich, Switzerland" numbered="false" >}}
+{{< figure src="zurich4.jpeg" caption="Zurich, Switzerland" numbered="false" >}}
+{{< figure src="zurich5.jpeg" caption="Zurich, Switzerland" numbered="false" >}}
+
+
 
