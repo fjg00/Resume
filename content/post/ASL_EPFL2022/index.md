@@ -56,22 +56,22 @@ Overall, my summer at the Adaptive Systems lab at EPFL has been a transformative
 
 **Main Topic**: Policy Evaluation in Decentralized POMDPs with Belief Sharing
 
-### Motivation:
+#### Motivation:
 
 
 
-### Other works:
+#### Other works:
 
 
-### Algorithms:
+#### Algorithms:
   1. Centralized
 
   2. Decentralized
 
-### Simulations:
+#### Simulations:
 
 
-### Results:
+#### Results:
 
 
 
