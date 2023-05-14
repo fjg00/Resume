@@ -43,6 +43,12 @@ Reflecting on my summer 2022 as I begin summer 2023.
 {{< figure src="Pic1.jpg" caption= "View from EPFL campus" numbered="false" >}}
 {{< figure src="Pic2.jpg" caption="View from EPFL campus" numbered="false" >}}
 
+{{< figure src="epfl.jpeg" caption="EPFL campus on a cloudy evening" numbered="false" >}}
+
+{{< figure src="lacleman1.jpeg" caption="Lac Leman" numbered="false" >}}
+{{< figure src="lacleman2.jpeg" caption="Lac Leman" numbered="false" >}}
+{{< figure src="lacleman3.jpeg" caption="Ouchy" numbered="false" >}}
+
 
 {{< figure src="lavaux1.jpeg" caption="Lavaux Vineyards, Lausanne, Switzerland" numbered="false" >}}
 {{< figure src="lavaux2.jpeg" caption="Lavaux Vineyards, Lausanne, Switzerland" numbered="false" >}}
@@ -75,9 +81,11 @@ Reflecting on my summer 2022 as I begin summer 2023.
 {{< figure src="vevey2.jpeg" caption="Vevey with Salam and Saiid, Switzerland" numbered="false" >}}
 
 {{< figure src="zurich1.jpeg" caption="Zurich, Switzerland" numbered="false" >}}
+{{< figure src="zurich.jpeg" caption="Zurich, Switzerland" numbered="false" >}}
 {{< figure src="zurich3.jpeg" caption="Zurich, Switzerland" numbered="false" >}}
 {{< figure src="zurich4.jpeg" caption="Zurich, Switzerland" numbered="false" >}}
 {{< figure src="zurich5.jpeg" caption="Zurich, Switzerland" numbered="false" >}}
+{{< figure src="zurich6.jpeg" caption="Zurich, Switzerland" numbered="false" >}}
 
 
 
