@@ -40,8 +40,7 @@ categories:
 
 Reflecting on my summer 2022 as I begin summer 2023. 
 
-{{< figure src="Pic1.jpg" caption= "View from EPFL campus" numbered="false" >}}
-{{< figure src="Pic2.jpg" caption="View from EPFL campus" numbered="false" >}}
+{{< figure src="Pic1.jpg" caption= "View from EPFL campus" numbered="false" >}}{{< figure src="Pic2.jpg" caption="View from EPFL campus" numbered="false" >}}
 
 {{< figure src="epfl.jpeg" caption="EPFL campus on a cloudy evening" numbered="false" >}}
 
