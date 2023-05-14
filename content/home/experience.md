@@ -30,13 +30,9 @@ experience:
     date_start: '2022-07-01'
     date_end: '2022-10-09'
     description: |2-
-        · Joined the ASL lab at EPFL as part of its Excellence in Engineering Fellowship Program.
+        · Joined the ASL lab at EPFL as part of its Excellence in Engineering Fellowship Program, under the supervision of Professor Ali H. Sayed.
         
-        · Worked on a project in Multi-Agent Reinforcement Learning within POMDPs.
-        
-        · Simulated, tested and rendered multiple algorithms in a grid world scenario using Python where agents aim to track an HMM moving target using the A-T-C method.
-        
-        · Assisted my supervisor in extending his paper on Hidden Markov Modeling over Graphs
+        · Work resulted in a Journal paper that was published in IEEE OJCSYS. 
 
   - title: Data Analyst
     company: Al-Ghurair Hub in Digital Learning, AUB
@@ -51,8 +47,8 @@ experience:
       · Managing and coordinating with a team of 14 coding coaches who were conducting office hours and
       labs.
       
-      · Conducting surveys and providing calculated advice on how we can improve the delivery of the
-      course in order to ensure a smooth student experience.
+      · Conducting surveys and participated in providing educated decision-making schemes in order to improve the delivery of the
+      course and provide the students with a smooth experience within the course.
       
       · Performing extensive statistical analysis and preparing bi/weekly reports regarding course performance
 
