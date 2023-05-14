@@ -26,6 +26,59 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 View from EPFL campus
 &lt;/figcaption>&lt;/figure>&lt;/p>
+&lt;figure id="figure-epfl-campus-on-a-cloudy-evening">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="EPFL campus on a cloudy evening" srcset="
+/media/epfl_hu0120d029d957e2e996434ddf42cd189e_2784792_61680c1374023833dcee43cbff0a4923.webp 400w,
+/media/epfl_hu0120d029d957e2e996434ddf42cd189e_2784792_30c2801bb935c619b1139a0306df4331.webp 760w,
+/media/epfl_hu0120d029d957e2e996434ddf42cd189e_2784792_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://fjg00.github.io/media/epfl_hu0120d029d957e2e996434ddf42cd189e_2784792_61680c1374023833dcee43cbff0a4923.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+EPFL campus on a cloudy evening
+&lt;/figcaption>&lt;/figure>
+&lt;p>
+&lt;figure id="figure-lac-leman">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Lac Leman" srcset="
+/media/lacleman1_hu36d535bbf013f7c26a054f7ba1f0b1f8_84653_e5b40a5411c52457652187831e556e8d.webp 400w,
+/media/lacleman1_hu36d535bbf013f7c26a054f7ba1f0b1f8_84653_49a51aa4fb0da237b84b1354aec2f10b.webp 760w,
+/media/lacleman1_hu36d535bbf013f7c26a054f7ba1f0b1f8_84653_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://fjg00.github.io/media/lacleman1_hu36d535bbf013f7c26a054f7ba1f0b1f8_84653_e5b40a5411c52457652187831e556e8d.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Lac Leman
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-lac-leman">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Lac Leman" srcset="
+/media/lacleman2_hu384f28692217365cd267348db96592b7_3918802_cd3fc886a768ef941c98a59c17df4dd1.webp 400w,
+/media/lacleman2_hu384f28692217365cd267348db96592b7_3918802_09b38b87e0c5f24f0dfa5238d2baaee0.webp 760w,
+/media/lacleman2_hu384f28692217365cd267348db96592b7_3918802_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://fjg00.github.io/media/lacleman2_hu384f28692217365cd267348db96592b7_3918802_cd3fc886a768ef941c98a59c17df4dd1.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Lac Leman
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-ouchy">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Ouchy" srcset="
+/media/lacleman3_huad480af26072a10e806cc7764aabf8df_3227849_6ee54a21ac80bbcd47677c233eb842a6.webp 400w,
+/media/lacleman3_huad480af26072a10e806cc7764aabf8df_3227849_7f42b8afbfe0ef2fd57daa780a968a51.webp 760w,
+/media/lacleman3_huad480af26072a10e806cc7764aabf8df_3227849_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://fjg00.github.io/media/lacleman3_huad480af26072a10e806cc7764aabf8df_3227849_6ee54a21ac80bbcd47677c233eb842a6.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Ouchy
+&lt;/figcaption>&lt;/figure>&lt;/p>
 &lt;p>
 &lt;figure id="figure-lavaux-vineyards-lausanne-switzerland">
 &lt;div class="d-flex justify-content-center">
@@ -257,6 +310,19 @@ Zurich, Switzerland
 &lt;figure id="figure-zurich-switzerland">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Zurich, Switzerland" srcset="
+/media/zurich_hud8572391c976eed6e142c215c3212549_231451_721a593a18871902721eabf0ce0fa176.webp 400w,
+/media/zurich_hud8572391c976eed6e142c215c3212549_231451_1870dff3984e98d352a0a00bea56385c.webp 760w,
+/media/zurich_hud8572391c976eed6e142c215c3212549_231451_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://fjg00.github.io/media/zurich_hud8572391c976eed6e142c215c3212549_231451_721a593a18871902721eabf0ce0fa176.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Zurich, Switzerland
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-zurich-switzerland">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Zurich, Switzerland" srcset="
 /media/zurich3_hu4c2b0808b4abcfef81e16e207c7de348_85755_989de896b813fbfd979ef0d95fd84af7.webp 400w,
 /media/zurich3_hu4c2b0808b4abcfef81e16e207c7de348_85755_dbb5bc7a5331ca0c88388154cecca6ca.webp 760w,
 /media/zurich3_hu4c2b0808b4abcfef81e16e207c7de348_85755_1200x1200_fit_q75_h2_lanczos.webp 1200w"
@@ -288,6 +354,19 @@ Zurich, Switzerland
 /media/zurich5_hub66a8e0aafab8a390a40388d12dbfd49_219594_1200x1200_fit_q75_h2_lanczos.webp 1200w"
 src="https://fjg00.github.io/media/zurich5_hub66a8e0aafab8a390a40388d12dbfd49_219594_a1aac07b7775b1b5b2c8d05111a4aaaf.webp"
 width="570"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Zurich, Switzerland
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-zurich-switzerland">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Zurich, Switzerland" srcset="
+/media/zurich6_hub97f9c5503355bdb1113c7554793dc7f_753422_89caade2044999068c784dfd7795d0eb.webp 400w,
+/media/zurich6_hub97f9c5503355bdb1113c7554793dc7f_753422_3d384baa91d7bef9102afa015d2b73fb.webp 760w,
+/media/zurich6_hub97f9c5503355bdb1113c7554793dc7f_753422_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://fjg00.github.io/media/zurich6_hub97f9c5503355bdb1113c7554793dc7f_753422_89caade2044999068c784dfd7795d0eb.webp"
+width="624"
 height="760"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
