@@ -38,7 +38,7 @@ height="570"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 View from EPFL campus
-&lt;/figcaption>&lt;/figure>&lt;/p>
+&lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-epfl-campus-on-a-cloudy-evening">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="EPFL campus on a cloudy evening" srcset="
@@ -51,7 +51,7 @@ height="570"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 EPFL campus on a cloudy evening
-&lt;/figcaption>&lt;/figure>
+&lt;/figcaption>&lt;/figure>&lt;/p>
 &lt;p>
 &lt;figure id="figure-lac-leman">
 &lt;div class="d-flex justify-content-center">
