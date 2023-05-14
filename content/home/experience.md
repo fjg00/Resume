@@ -30,27 +30,29 @@ experience:
     date_start: '2022-07-01'
     date_end: '2022-10-09'
     description: |2-
-        · Joined the ASL lab at EPFL as part of its Excellence in Engineering Fellowship Program, under the supervision of Professor Ali H. Sayed.
+         Joined the ASL lab at EPFL as part of its Excellence in Engineering Fellowship Program, under the supervision of Professor Ali H. Sayed. Work resulted in a journal paper that was published in IEEE OJCSYS. 
         
-        · Work resulted in a Journal paper that was published in IEEE OJCSYS. 
-
+         Multi-Agent Systems - MARL - Reinforcement Learning - Inference and Learning - Optimization
+         
   - title: Data Analyst
     company: Al-Ghurair Hub in Digital Learning, AUB
     company_url: 'https://www.aub.edu.lb/msfea/Landing/introduction-to-Python.html'
     company_logo: 
     location: Beirut, Lebanon
     date_start: '2022-01-01'
-    date_end: ''
+    date_end: '2022-05-30'
     description: |2-
-      · Tracking data regarding the performance of 250+ students taking EECE 230X “Introduction to Computation and Programming” that was being offered for the first time in a mixed-learning format.
+      · Tracked data regarding the performance of 250+ students taking EECE 230X “Introduction to Computation and Programming” that was being offered for the first time in a mixed-learning format.
       
-      · Managing and coordinating with a team of 14 coding coaches who were conducting office hours and
+      · Managed and coordinated with a team of 14 coding coaches who were conducting office hours and
       labs.
       
-      · Conducting surveys and participated in providing educated decision-making schemes in order to improve the delivery of the
+      · Conducted surveys and participated in providing educated decision-making schemes in order to improve the delivery of the
       course and provide the students with a smooth experience within the course.
       
-      · Performing extensive statistical analysis and preparing bi/weekly reports regarding course performance
+      · Performed extensive statistical analysis and preparing bi/weekly reports regarding course performance
+      
+      Data Analysis - Data Wrangling and Preprocessing - Statistical Analysis   
 
 design:
   columns: '2'
