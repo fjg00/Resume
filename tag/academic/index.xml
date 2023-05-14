@@ -4,13 +4,27 @@ In addition to the scholarship award, I will also be teamed up with a LebNet men
 &lt;p>
 &lt;figure id="figure-a-caption">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="Pic1.jpg" alt="A caption" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="A caption" srcset="
+/media/Pic1_hufc7b929ceeda8d23d069285c6e7b2f7f_5008654_1c809ba1f25e813598e611e0e43dcec0.webp 400w,
+/media/Pic1_hufc7b929ceeda8d23d069285c6e7b2f7f_5008654_f1e33c8124c6c71b95d5411fd166a94b.webp 760w,
+/media/Pic1_hufc7b929ceeda8d23d069285c6e7b2f7f_5008654_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://fjg00.github.io/media/Pic1_hufc7b929ceeda8d23d069285c6e7b2f7f_5008654_1c809ba1f25e813598e611e0e43dcec0.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 A caption
 &lt;/figcaption>&lt;/figure>
 &lt;figure id="figure-a-caption">
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="Pic2.jpg" alt="A caption" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="A caption" srcset="
+/media/Pic2_hu88a47edd549247dcf3119fb2c05b2517_1666722_891bd620856e457676fe7c6b4c0d643d.webp 400w,
+/media/Pic2_hu88a47edd549247dcf3119fb2c05b2517_1666722_f86a534250fb753d487397b08f53ee51.webp 760w,
+/media/Pic2_hu88a47edd549247dcf3119fb2c05b2517_1666722_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://fjg00.github.io/media/Pic2_hu88a47edd549247dcf3119fb2c05b2517_1666722_891bd620856e457676fe7c6b4c0d643d.webp"
+width="760"
+height="570"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 A caption
 &lt;/figcaption>&lt;/figure>&lt;/p></description></item><item><title>Excellence in Engineering Fellowship at EPFL, Switzerland</title><link>https://fjg00.github.io/post/asl_epfl2022/</link><pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate><guid>https://fjg00.github.io/post/asl_epfl2022/</guid><description>&lt;h3 id="umy-experience-at-epfl-as-a-research-internu">&lt;u>My Experience at EPFL as a Research Intern&lt;/u>&lt;/h3>
