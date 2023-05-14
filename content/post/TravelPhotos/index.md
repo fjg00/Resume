@@ -39,3 +39,7 @@ categories:
 ---  
 
 Reflecting on my summer 2022 as I begin summer 2023. 
+
+{{< figure src="Pic1.jpg" caption="A caption" numbered="false" >}}
+{{< figure src="Pic2.jpg" caption="A caption" numbered="false" >}}
+
