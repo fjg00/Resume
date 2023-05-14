@@ -47,8 +47,6 @@ Reflecting on my summer 2022 as I begin summer 2023.
 {{< figure src="lacleman1.jpeg" caption="Lac Leman" numbered="false" >}}
 {{< figure src="lacleman2.jpeg" caption="Lac Leman" numbered="false" >}}
 {{< figure src="lacleman3.jpeg" caption="Ouchy" numbered="false" >}}
-
-
 {{< figure src="lavaux1.jpeg" caption="Lavaux Vineyards, Lausanne, Switzerland" numbered="false" >}}
 {{< figure src="lavaux2.jpeg" caption="Lavaux Vineyards, Lausanne, Switzerland" numbered="false" >}}
 {{< figure src="lavaux3.jpeg" caption="Lavaux Vineyards, Lausanne, Switzerland" numbered="false" >}}
