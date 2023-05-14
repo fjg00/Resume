@@ -75,7 +75,6 @@ Reflecting on my summer 2022 as I begin summer 2023.
 {{< figure src="vevey2.jpeg" caption="Vevey with Salam and Saiid, Switzerland" numbered="false" >}}
 
 {{< figure src="zurich1.jpeg" caption="Zurich, Switzerland" numbered="false" >}}
-{{< figure src="zurich2.jpeg" caption="Zurich, Switzerland" numbered="false" >}}
 {{< figure src="zurich3.jpeg" caption="Zurich, Switzerland" numbered="false" >}}
 {{< figure src="zurich4.jpeg" caption="Zurich, Switzerland" numbered="false" >}}
 {{< figure src="zurich5.jpeg" caption="Zurich, Switzerland" numbered="false" >}}
