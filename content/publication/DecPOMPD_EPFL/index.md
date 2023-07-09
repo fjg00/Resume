@@ -24,7 +24,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE Open Journal of Control Systems*, vol. 2, pp. 125-145, 2023
-publication_short: In *IEEE OJCSYS*, vol. 2, pp. 125-145, 2023
+publication_short: In *IEEE Open Journal of Control Systems*, vol. 2, pp. 125-145, 2023
 
 abstract: Most works on multi-agent reinforcement learning focus on scenarios where the state of the environment is fully observable. In this work, we consider a cooperative policy evaluation task in which agents are not assumed to observe the environment state directly. Instead, agents can only have access to noisy observations and to belief vectors. It is well-known that finding global posterior distributions under multi-agent settings is generally NP-hard. As a remedy, we propose a fully decentralized belief forming strategy that relies on individual updates and on localized interactions over a communication network. In addition to the exchange of the beliefs, agents exploit the communication network by exchanging value function parameter estimates as well. We analytically show that the proposed strategy allows information to diffuse over the network, which in turn allows the agents' parameters to have a bounded difference with a centralized baseline. A multi-sensor target tracking application is considered in the simulations.
 
