@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2302.04151.pdf'
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10129007'
 url_code: 'https://github.com/asl-epfl/DecPOMDP_Policy_Evaluation_w-Belief_Sharing'
 url_dataset: ''
 url_poster: ''
